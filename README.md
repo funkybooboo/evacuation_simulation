@@ -102,3 +102,7 @@ management, and human behavior studies. By continuously refining and expanding t
 simulation, we contribute to the development of more effective emergency response strategies
 and the mitigation of potential risks in diverse real-world scenarios. All before the building is
 even built and someone has the opportunity to get hurt.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
