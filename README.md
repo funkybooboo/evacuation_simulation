@@ -1,4 +1,4 @@
-CS5110 Project: Fire Evacuation Simulation 
+# Evacuation Simulation
 
 Details and Information Document
 
